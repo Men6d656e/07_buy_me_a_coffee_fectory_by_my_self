@@ -1,0 +1,15 @@
+# Environment — never commit secrets
+.env
+
+# Foundry build artifacts
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Root
+node_modules/
