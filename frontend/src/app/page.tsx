@@ -246,7 +246,7 @@ export default function Home() {
             <span>COFFEE ENGINE &copy; 2026</span>
           </div>
           <div className="flex items-center gap-2 font-bold text-sm">
-            <span>Built with Love by Antigravity</span>
+            <span>Built with Love by Akash</span>
             <Heart className="h-4 w-4 text-neo-pink fill-current" />
           </div>
         </div>
