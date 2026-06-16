@@ -1,5 +1,22 @@
 # ☕ Buy Me A Coffee Factory
 
+## Table of Contents
+
+- [What Problem Does This Solve?](#what-problem-does-this-solve)
+- [How It Works](#how-it-works)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Smart Contracts](#smart-contracts)
+- [Getting Started](#getting-started)
+- [Full List of Make Commands](#full-list-of-make-commands)
+- [Connecting MetaMask](#connecting-metamask)
+- [Environment Variables](#environment-variables)
+- [Design System (Neo-Brutalist)](#design-system-neo-brutalist)
+- [Testing](#testing)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+
 **A decentralized tipping platform where creators deploy their own smart contracts to accept ETH tips directly from fans — no middlemen, no fees, full ownership.**
 
 ---
@@ -266,7 +283,18 @@ Key visual traits:
 - Active effects: translate down-right + smaller shadow
 - All caps, font-black headings
 
----
+## Screenshots / Demo GIFs
+
+> The following screenshots demonstrate the UI.
+
+![Screenshot 1](./media/Screenshot%20from%202026-06-16%2020-24-27.png)
+![Screenshot 2](./media/Screenshot%20from%202026-06-16%2020-24-37.png)
+![Screenshot 3](./media/Screenshot%20from%202026-06-16%2020-24-44.png)
+![Screenshot 4](./media/Screenshot%20from%202026-06-16%2020-25-16.png)
+![Screenshot 5](./media/Screenshot%20from%202026-06-16%2020-25-40.png)
+![Screenshot 6](./media/Screenshot%20from%202026-06-16%2020-25-46.png)
+![Screenshot 7](./media/Screenshot%20from%202026-06-16%2020-26-09.png)
+
 
 ## Testing
 
@@ -315,7 +343,7 @@ make typecheck                # or: cd frontend && npx tsc --noEmit
 
 ---
 
-## Contributing
+
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/my-feature`
@@ -331,6 +359,4 @@ make typecheck                # or: cd frontend && npx tsc --noEmit
 
 MIT License — use this however you want.
 
----
 
-**Built with ❤️ by [Antigravity](https://github.com/antigravity)**
